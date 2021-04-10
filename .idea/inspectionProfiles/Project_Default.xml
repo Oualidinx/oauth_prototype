@@ -1,0 +1,111 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="209" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="td" />
+            <item index="7" class="java.lang.String" itemvalue="th" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="50">
+            <item index="0" class="java.lang.String" itemvalue="preppy" />
+            <item index="1" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="2" class="java.lang.String" itemvalue="z3c.rml" />
+            <item index="3" class="java.lang.String" itemvalue="pikepdf" />
+            <item index="4" class="java.lang.String" itemvalue="reportlab" />
+            <item index="5" class="java.lang.String" itemvalue="zope.interface" />
+            <item index="6" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="7" class="java.lang.String" itemvalue="Pygments" />
+            <item index="8" class="java.lang.String" itemvalue="backports.weakref" />
+            <item index="9" class="java.lang.String" itemvalue="backports.tempfile" />
+            <item index="10" class="java.lang.String" itemvalue="lxml" />
+            <item index="11" class="java.lang.String" itemvalue="zope.schema" />
+            <item index="12" class="java.lang.String" itemvalue="Pmw" />
+            <item index="13" class="java.lang.String" itemvalue="PyMySQL" />
+            <item index="14" class="java.lang.String" itemvalue="zope.event" />
+            <item index="15" class="java.lang.String" itemvalue="Pillow" />
+            <item index="16" class="java.lang.String" itemvalue="google-auth-oauthlib" />
+            <item index="17" class="java.lang.String" itemvalue="flask-datatables" />
+            <item index="18" class="java.lang.String" itemvalue="idna" />
+            <item index="19" class="java.lang.String" itemvalue="googleapis-common-protos" />
+            <item index="20" class="java.lang.String" itemvalue="google-auth-httplib2" />
+            <item index="21" class="java.lang.String" itemvalue="google-api-python-client" />
+            <item index="22" class="java.lang.String" itemvalue="google-api-core" />
+            <item index="23" class="java.lang.String" itemvalue="google-auth" />
+            <item index="24" class="java.lang.String" itemvalue="querystring-parser" />
+            <item index="25" class="java.lang.String" itemvalue="protobuf" />
+            <item index="26" class="java.lang.String" itemvalue="rsa" />
+            <item index="27" class="java.lang.String" itemvalue="httplib2" />
+            <item index="28" class="java.lang.String" itemvalue="pyasn1" />
+            <item index="29" class="java.lang.String" itemvalue="requests" />
+            <item index="30" class="java.lang.String" itemvalue="Flask-Login" />
+            <item index="31" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="32" class="java.lang.String" itemvalue="pyasn1-modules" />
+            <item index="33" class="java.lang.String" itemvalue="requests-oauthlib" />
+            <item index="34" class="java.lang.String" itemvalue="Authlib" />
+            <item index="35" class="java.lang.String" itemvalue="Faker" />
+            <item index="36" class="java.lang.String" itemvalue="pyOpenSSL" />
+            <item index="37" class="java.lang.String" itemvalue="certifi" />
+            <item index="38" class="java.lang.String" itemvalue="oauthlib" />
+            <item index="39" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="40" class="java.lang.String" itemvalue="uritemplate" />
+            <item index="41" class="java.lang.String" itemvalue="image" />
+            <item index="42" class="java.lang.String" itemvalue="asgiref" />
+            <item index="43" class="java.lang.String" itemvalue="packaging" />
+            <item index="44" class="java.lang.String" itemvalue="rauth" />
+            <item index="45" class="java.lang.String" itemvalue="chardet" />
+            <item index="46" class="java.lang.String" itemvalue="Flask-GoogleLogin" />
+            <item index="47" class="java.lang.String" itemvalue="Django" />
+            <item index="48" class="java.lang.String" itemvalue="cachetools" />
+            <item index="49" class="java.lang.String" itemvalue="Flask-RESTful" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E402" />
+          <option value="E124" />
+          <option value="E128" />
+          <option value="E101" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N801" />
+          <option value="N813" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="app.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
